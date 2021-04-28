@@ -9,7 +9,7 @@ function Details() {
           distinctio modi similique?
         </p>
       </div>
-      <img src="/ram1.jpg" alt="ramadan image"/>
+      <img src="/ram1.jpg" alt="ramadan not available"/>
     </article>
   );
 }
