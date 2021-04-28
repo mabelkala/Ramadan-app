@@ -39,6 +39,12 @@ ul li {
   margin: 20px;
   border: none;
 }
+.btn-hero{
+  padding: 20px;
+  border-radius: 50px;
+  margin: 30px;
+  border: none;
+}
 /* details styles */
 .details{
   display: grid;
